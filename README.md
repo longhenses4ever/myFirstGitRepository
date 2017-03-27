@@ -1,1 +1,2 @@
 # myFirstGitRepository
+zmiany zmiany zmiany:-)
